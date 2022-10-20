@@ -5,4 +5,4 @@ atOptions = {
 		'width' : 160,
 		'params' : {}
 	};
-document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://sootproclaim.com/c99c926cc0f90ea9dbbd1bff032f4aac/invoke.js"></scr' + 'ipt>');
+document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://humpdecompose.com/c99c926cc0f90ea9dbbd1bff032f4aac/invoke.js"></scr' + 'ipt>');
